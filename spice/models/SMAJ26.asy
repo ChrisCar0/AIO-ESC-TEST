@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 16 46 16 64
+LINE Normal 16 44 16 46
+LINE Normal 0 44 16 44
+LINE Normal 32 44 16 44
+LINE Normal 32 20 16 44
+LINE Normal 0 20 32 20
+LINE Normal 16 44 0 20
+LINE Normal 16 0 16 20
+WINDOW 3 24 64 Left 2
+WINDOW 0 24 0 Left 2
+SYMATTR Value SMAJ26A
+SYMATTR SpiceModel SMAJ26A
+SYMATTR Prefix X
+SYMATTR Description TVS Diode
+PIN 16 64 NONE 8
+PINATTR PinName Anode
+PINATTR SpiceOrder 1
+PIN 16 0 NONE 8
+PINATTR PinName Cathode
+PINATTR SpiceOrder 2
